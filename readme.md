@@ -47,7 +47,7 @@ To https://github.com/Taygerr/helloword.git
    36222ff..595ce9a  master -> master
    
 sebastian.tregear@L603-013 MINGW64 ~/helloword (master)
-$ git fetch(para verificar el codigo de servidor-computadora)
+$ git fetch(para ver si hay cambios en el servidor)
 remote: Enumerating objects: 5, done.
 remote: Counting objects: 100% (5/5), done.
 remote: Compressing objects: 100% (3/3), done.
@@ -58,7 +58,7 @@ From https://github.com/Taygerr/helloword
    
    
    sebastian.tregear@L603-013 MINGW64 ~/helloword (master)
-$ git pull (guardar cambios hechos desde el servidor a la computadora)
+$ git pull (guardar esos cambios hechos desde el servidor a la computadora)
 remote: Enumerating objects: 5, done.
 remote: Counting objects: 100% (5/5), done.
 remote: Compressing objects: 100% (3/3), done.
