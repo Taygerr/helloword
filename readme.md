@@ -72,4 +72,28 @@ Fast-forward
  1 file changed, 48 insertions(+), 1 deletion(-)
 
    
+sebastian.tregear@L603-013 MINGW64 ~/helloword (master)
+$ git status (ver en que branch esta)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        deleted:    readme
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+sebastian.tregear@L603-013 MINGW64 ~/helloword (master)
+$ git branch (ver en que bracnh esta)
+* master
+
+sebastian.tregear@L603-013 MINGW64 ~/helloword (master)
+$ git checkout Hello_Word_python (cambiar de branch)
+Switched to a new branch 'Hello_Word_python'
+D       readme
+Branch 'Hello_Word_python' set up to track remote branch 'Hello_Word_python' from 'origin'.
+
 
