@@ -57,4 +57,19 @@ From https://github.com/Taygerr/helloword
    595ce9a..f37f835  master     -> origin/master
    
    
+   sebastian.tregear@L603-013 MINGW64 ~/helloword (master)
+$ git pull (guardar cambios hechos desde el servidor a la computadora)
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/Taygerr/helloword
+   f37f835..929894e  master     -> origin/master
+Updating 595ce9a..929894e
+Fast-forward
+ readme.md | 49 ++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 48 insertions(+), 1 deletion(-)
+
+   
 
